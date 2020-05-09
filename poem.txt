@@ -8,5 +8,5 @@ green
 earth
 yellow
 red
-these are the colors of the rainbow.
+these are the colors of the rainbow.//
 hello
