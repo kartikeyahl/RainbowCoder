@@ -3,7 +3,7 @@ the rainbow
 purple
 pink//
 orange
-blue
+bluekl
 green
 earth
 yellow
